@@ -17,7 +17,9 @@ Please refer to our [Privacy Policy](https://dailyastronomyphoto.com/privacy-pol
 If you have any questions or suggestions, feel free to reach out through my [contact page](https://www.basamalasaly.com/contact.html).
 
 ## License
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. You must give appropriate credit, provide a link to the license, and indicate if changes were made. See the [LICENSE](https://github.com/kbjohnson-penn/CLIPS/blob/main/LICENSE) file for details.
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Acknowledgments
 - NASA for providing the Astronomy Picture of the Day API.
